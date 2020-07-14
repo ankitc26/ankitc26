@@ -29,7 +29,7 @@ _Always willing to learn new stuff._
 
 🗣 Public Speaking \
 
-📈 IoT \
+📈 IoT
 
 <!-- Footer -->
 -----
