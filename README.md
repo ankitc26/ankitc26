@@ -37,7 +37,7 @@ _Always willing to learn new stuff._
 [![Projects](https://img.shields.io/badge/Projects-Github(Repos)-lightgrey.svg)](https://github.com/ankitc26)
 [![Website](https://img.shields.io/badge/Website-Linkmini-yellow.svg)](http://linkmini.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Aboutme-brightgreen.svg)](http://portfolio.linkmini.me)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitc26.visitor-badge)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitc26.Visitor-badge)
 
 ### Made with ❤️
 <!--
