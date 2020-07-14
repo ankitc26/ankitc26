@@ -2,15 +2,28 @@
 <img src="https://avatars3.githubusercontent.com/u/19408318?s=460&u=a81fb87bfd7947db424cb54bf4781c04ecf77c0e&v=4" alt="Ankit Chawla" width="100"/>
 
 ### Ankit Chawla 👋
------
+
+
 Hi there, I am a passionate and self-motivated developer with a keen interest in Front-End Web Development, Full Stack Development & Various Aspects of Management. 
 
 _Always willing to learn new stuff._
 
 <!-- Mid-Section -->
-
 -----
+### Skills 💻
 
+
+>Designing - HTML, CSS, JavaScript, Bootstrap
+>Development - Node.js, React.js, Angular.js
+>Database - MongoDB, My SQL
+
+### Leisure Favorites 🎲
+
+
+🎸 Guitar
+🎧 Music
+🗣 Public Speaking
+📈 IoT
 
 <!-- Footer -->
 -----
