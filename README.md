@@ -1,6 +1,22 @@
-### Hi there 👋
+<!-- Header -->
+![Profile Image](https://avatars3.githubusercontent.com/u/19408318?s=460&u=a81fb87bfd7947db424cb54bf4781c04ecf77c0e&v=4)
+### Ankit Chawla 👋
+<p>&nbsp;</p>
+Hi there, I am a passionate and self-motivated developer with a keen interest in Front-End Web Development, Full Stack Development & Various Aspects of Management. _Always willing to learn new stuff._
 
-[![Name](https://img.shields.io/badge/Name-Ankit-blue.svg)](http://linkmini.me)
+<!-- Mid-Section -->
+
+<!-- Footer -->
+<div align="center">
+![Name](https://img.shields.io/badge/Maintainer-Ankit-blue.svg)
+![Developer](https://img.shields.io/badge/Role-Developer :computer:-orange.svg)
+[![Projects](https://img.shields.io/badge/Projects-Github Repos-lightgrey.svg)](https://github.com/ankitc26)
+[![Website](https://img.shields.io/badge/Website-Linkmini-yellow.svg)](http://portfolio.linkmini.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Aboutme-brightgreen.svg)](http://portfolio.linkmini.me)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ankitc26.visitor-badge)
+</div>
+
+### **Made with :Heart:**
 
 <!--
 **ankitc26/ankitc26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
