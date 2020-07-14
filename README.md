@@ -7,7 +7,7 @@ Hi there, I am a passionate and self-motivated developer with a keen interest in
 <!-- Mid-Section -->
 
 <!-- Footer -->
-<div align="center">
+<div style="align:center;">
 ![Name](https://img.shields.io/badge/Maintainer-Ankit-blue.svg)
 ![Developer](https://img.shields.io/badge/Role-Developer :computer:-orange.svg)
 [![Projects](https://img.shields.io/badge/Projects-Github Repos-lightgrey.svg)](https://github.com/ankitc26)
