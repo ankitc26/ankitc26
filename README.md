@@ -8,6 +8,9 @@ _Always willing to learn new stuff._
 
 <!-- Mid-Section -->
 
+-----
+
+
 <!-- Footer -->
 -----
 ![Name](https://img.shields.io/badge/Maintainer-Ankit-blue.svg)
