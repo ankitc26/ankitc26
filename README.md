@@ -14,7 +14,7 @@ Hi there, I am a passionate and self-motivated developer with a keen interest in
 [![Portfolio](https://img.shields.io/badge/Portfolio-Aboutme-brightgreen.svg)](http://portfolio.linkmini.me)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ankitc26.visitor-badge)
 
-### **Made with :Heart:**
+### Made with :Heart:
 
 <!--
 **ankitc26/ankitc26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
