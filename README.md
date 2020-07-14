@@ -7,14 +7,14 @@ Hi there, I am a passionate and self-motivated developer with a keen interest in
 <!-- Mid-Section -->
 
 <!-- Footer -->
-[![Name](https://img.shields.io/badge/Maintainer-Ankit-blue.svg)]()
-[![Developer](https://img.shields.io/badge/Developer-:computer:-orange.svg)]()
+![Name](https://img.shields.io/badge/Maintainer-Ankit-blue.svg)
+![Developer](https://img.shields.io/badge/Role-Developer 💻-orange.svg)
 [![Projects](https://img.shields.io/badge/Projects-Github Repos-lightgrey.svg)](https://github.com/ankitc26)
 [![Website](https://img.shields.io/badge/Website-Linkmini-yellow.svg)](http://portfolio.linkmini.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Aboutme-brightgreen.svg)](http://portfolio.linkmini.me)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ankitc26.visitor-badge)
 
-### Made with :Heart:
+### Made with ❤️
 
 <!--
 **ankitc26/ankitc26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
