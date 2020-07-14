@@ -1,6 +1,6 @@
 <!-- Header -->
-<img src="https://avatars3.githubusercontent.com/u/19408318?s=460&u=a81fb87bfd7947db424cb54bf4781c04ecf77c0e&v=4" alt="Ankit Chawla" width="100" style="border: 1px dotted lightgrey 50%"/>
-<!-- ![Profile Image](https://avatars3.githubusercontent.com/u/19408318?s=460&u=a81fb87bfd7947db424cb54bf4781c04ecf77c0e&v=4 =100x "Ankit Chawla") -->
+<img src="https://avatars3.githubusercontent.com/u/19408318?s=460&u=a81fb87bfd7947db424cb54bf4781c04ecf77c0e&v=4" alt="Ankit Chawla" width="100" style="border: 5px dotted blue; border-radius: 50%;"/>
+
 ### Ankit Chawla 👋
 -----
 Hi there, I am a passionate and self-motivated developer with a keen interest in Front-End Web Development, Full Stack Development & Various Aspects of Management. _Always willing to learn new stuff._
