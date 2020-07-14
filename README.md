@@ -13,20 +13,20 @@ _Always willing to learn new stuff._
 ## Skills 💻
 
 
->***Designing*** - HTML, CSS, JavaScript, Bootstrap \
+>***Designing*** - HTML, CSS, JavaScript, Bootstrap
 
->***Development*** - Node.js, React.js, Angular.js \
+>***Development*** - Node.js, React.js, Angular.js
 
->***Database*** - MongoDB, My SQL \
+>***Database*** - MongoDB, My SQL
 
 ## Leisure Favorites 🎲
 
 
-🎸 Guitar \
+🎸 Guitar
 
-🎧 Music \
+🎧 Music
 
-🗣 Public Speaking \
+🗣 Public Speaking
 
 📈 IoT
 
