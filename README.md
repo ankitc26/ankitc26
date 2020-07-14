@@ -13,9 +13,9 @@ _Always willing to learn new stuff._
 ### Skills 💻
 
 
->Designing - HTML, CSS, JavaScript, Bootstrap
->Development - Node.js, React.js, Angular.js
->Database - MongoDB, My SQL
+>Designing - HTML, CSS, JavaScript, Bootstrap \
+>Development - Node.js, React.js, Angular.js \
+>Database - MongoDB, My SQL \
 
 ### Leisure Favorites 🎲
 
