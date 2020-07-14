@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Name](https://img.shields.io/badge/Name-Ankit-blue.svg)](http://portfolio.linkmini.me)
+[![Name](https://img.shields.io/badge/Name-Ankit-blue.svg)](http://linkmini.me)
 
 <!--
 **ankitc26/ankitc26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
