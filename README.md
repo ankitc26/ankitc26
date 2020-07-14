@@ -40,7 +40,6 @@ _Always willing to learn new stuff._
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ankitc26.visitor-badge)
 
 ## Made with ❤️
-
 <!--
 **ankitc26/ankitc26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
