@@ -10,7 +10,7 @@ _Always willing to learn new stuff._
 
 <!-- Mid-Section -->
 -----
-### Skills 💻
+## Skills 💻
 
 
 >***Designing*** - HTML, CSS, JavaScript, Bootstrap \
@@ -19,7 +19,7 @@ _Always willing to learn new stuff._
 
 >***Database*** - MongoDB, My SQL \
 
-### Leisure Favorites 🎲
+## Leisure Favorites 🎲
 
 
 🎸 Guitar \
