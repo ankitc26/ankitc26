@@ -7,8 +7,8 @@ Hi there, I am a passionate and self-motivated developer with a keen interest in
 <!-- Mid-Section -->
 
 <!-- Footer -->
-![Name](https://img.shields.io/badge/Maintainer-Ankit-blue.svg)
-![Developer](https://img.shields.io/badge/Role-Developer :computer:-orange.svg)
+[![Name](https://img.shields.io/badge/Maintainer-Ankit-blue.svg)]()
+[![Developer](https://img.shields.io/badge/Role-Developer :computer:-orange.svg)]()
 [![Projects](https://img.shields.io/badge/Projects-Github Repos-lightgrey.svg)](https://github.com/ankitc26)
 [![Website](https://img.shields.io/badge/Website-Linkmini-yellow.svg)](http://portfolio.linkmini.me)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Aboutme-brightgreen.svg)](http://portfolio.linkmini.me)
